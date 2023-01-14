@@ -9,9 +9,9 @@ const Footer = () => {
                         <div class="col-lg-3 col-md-6">
                             <h4 class="d-inline-block text-primary text-uppercase border-bottom border-5 border-secondary mb-4">Get In Touch</h4>
                             <p class="mb-4">No dolore ipsum accusam no lorem. Invidunt sed clita kasd clita et et dolor sed dolor</p>
-                            <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>123 Street, New York, USA</p>
-                            <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>info@example.com</p>
-                            <p class="mb-0"><i class="fa fa-phone-alt text-primary me-3"></i>+012 345 67890</p>
+                            <p class="mb-2"><i class="fa fa-map-marker-alt text-primary me-3"></i>Varmaniam Foundation, 3GR5+H74, Manakudi-Kanyakumari Rd, Muhilankudiyuruppu, TN</p>
+                            <p class="mb-2"><i class="fa fa-envelope text-primary me-3"></i>varmaniamfoundation@gmail.com</p>
+                            <p class="mb-0"><i class="fa fa-phone-alt text-primary me-3"></i>+91 80728 010760</p>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <h4 class="d-inline-block text-primary text-uppercase border-bottom border-5 border-secondary mb-4">Quick Links</h4>
