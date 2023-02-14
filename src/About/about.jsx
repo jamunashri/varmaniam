@@ -8,7 +8,7 @@ const About  = () => {
             <div class="row gx-5">
                 <div class="col-lg-5 mb-5 mb-lg-0" style={{minHeight: "500px"}}>
                     <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100 rounded" src="img/about.jpg" style={{objectFit: "cover"}} />
+                        <img class=" w-100 h-100 rounded" src={require('../img/about.jpg')} style={{objectFit: "cover"}} />
                     </div>
                 </div>
                 <div class="col-lg-7">

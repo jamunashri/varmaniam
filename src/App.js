@@ -9,6 +9,7 @@ import Footer from './Footer';
 import About from './About/about'
 import Services from './Services/services'
 import Contact from './Contact/contact';
+import Appointment from './Appointment/appointment';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 
 
@@ -23,6 +24,7 @@ function App() {
         <Route exact path="/about" element={<About/>}/>
         <Route exact path="/contact" element={<Contact/>}/>
         <Route exact path="/service" element={<Services />}/>
+        <Route exact path="/appointment" element={<Appointment />} />
         </Routes>
         <Footer />
       </div>

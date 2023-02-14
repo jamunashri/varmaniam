@@ -33,7 +33,7 @@ const Navbar = () => {
                 <div className="container">
                     <nav className="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0">
                         <a href="/" className="navbar-brand">
-                            <h1 className="m-0 text-uppercase text-primary"><i className="fa fa-clinic-medical me-2"></i>Medinova</h1>
+                            <h1 className="m-0 text-uppercase text-primary"><i className="fa fa-clinic-medical me-2"></i>Varmaniam</h1>
                         </a>
                         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" onClick={() => setNavBarOpen(!isNavBarOpen)}>
                             <span className="navbar-toggler-icon"></span>
